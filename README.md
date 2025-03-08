@@ -1,16 +1,42 @@
-## Hi there 👋
+## 👋 ¡Hola, soy Victor Manuel Carranza Yactayo!
+### 🚀 Desarrollador de Software | Backend & Frontend Enthusiast
 
-<!--
-**VictorCY19/VictorCY19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 **Lima, Perú**  
+📧 **[Email](mailto:al_victor99@hotmail.com)**  
+🔗 **[LinkedIn](https://www.linkedin.com/in/victor-carranza-5765b6355/)**  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tecnologías y Herramientas
+
+- **Lenguajes:** Java, Python, C#, JavaScript, HTML, CSS  
+- **Frameworks:** React, Angular  
+- **Herramientas:** Git, GitHub, API RESTful, Bases de Datos SQL & NoSQL  
+- **Enfoque:** Desarrollo Backend y Aplicaciones Empresariales  
+
+---
+
+
+### 📜 Certificaciones
+
+📌 Encuentra mis certificaciones en [LinkedIn](https://www.linkedin.com/in/victor-carranza-5765b6355/)  
+
+---
+
+### 🌎 Idiomas
+
+- Español (Nativo)  
+- Inglés (Intermedio)  
+
+---
+
+### 🚀 Sobre mí
+
+💡 Apasionado por la tecnología, el aprendizaje continuo y el desarrollo de soluciones innovadoras.  
+📚 Siempre explorando nuevas herramientas y mejores prácticas en desarrollo backend.  
+🤝 Abierto a colaboraciones y nuevos proyectos.  
+
+---
+
+✨ _¡Gracias por visitar mi perfil!_ 😊
