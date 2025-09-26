@@ -1,4 +1,4 @@
-## 👋 ¡Hola, soy Victor Manuel Carranza Yactayo!
+## 👋 ¡Hola, soy Victor Carranza!
 ### 🚀 Desarrollador de Software | Backend & Frontend Enthusiast
 
 📍 **Lima, Perú**  
